@@ -1,0 +1,26 @@
+!<--------.Xresources starts here-------->
+! Cairo libXft: 
+! Xft.antialias:  (bool)// FC_ANTIALIAS
+Xft.antialias: true
+! Xft.dpi:        (double)// FC_DPI
+Xft.dpi: 100.0
+! Xft.hinting:    (bool)// FC_HINTING
+Xft.hinting: true
+! Xft.hintstyle:  (int) // FC_HINT_STYLEhintnone hintslight hintmedium hintfull
+Xft.hintstyle: hintslight
+! Xft.rgba:       (int) // FC_RGBA unknown, rgb, bgr, vrgb, vbgr, none 
+Xft.rgba: none 
+! Xft.lcdfilter   (int) // FC_LCD_FILTER  lcdnone lcddefault lcdlight lcdlegacy
+Xft.lcdfilter: lcddefault
+
+XTerm*termName: xterm-256color
+XTerm*VT100.geometry: 100x35
+XTerm*faceName: Monospace
+XTerm*faceSize: 14
+XTerm*background:  #000000
+XTerm*foreground:  #7f7f7f
+XTerm*metaSendsEscape: true
+
+Xcursor.theme: Obsidian
+
+
